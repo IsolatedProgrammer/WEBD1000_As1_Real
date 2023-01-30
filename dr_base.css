@@ -72,6 +72,7 @@ abbr[title] {
 }
 b, strong {
 	font-weight: bold;
+	color: palevioletred;
 }
 blockquote {
 	margin: 1em 40px;
@@ -229,7 +230,6 @@ textarea {
 	vertical-align: top;
 	resize: vertical;
 }
-
 
 
 /* =============================================
